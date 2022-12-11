@@ -1,3 +1,3 @@
 # ATM Display System
 ## langauge - Python
-## Library used - Pandas,numpy,matplotlib.
+## Here we used OOPS Python concept to make ATM display system.
